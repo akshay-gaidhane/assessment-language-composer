@@ -3,9 +3,9 @@
 # User Stories:
 
  Rules:
-  # have all its words present in the Annkissam Dictionary.
-  # have a verb.
-  # have a noun or have at least two articles.
+  - have all its words present in the Annkissam Dictionary.
+  - have a verb.
+  - have a noun or have at least two articles.
 
 ## Installation
 It requires  `ruby 2.7.0`
